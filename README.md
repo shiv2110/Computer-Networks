@@ -1,4 +1,4 @@
-# Reassembly - 19MCME24
+# Reassembly
 
 ### Assumptions
 - Maximum data length = 1480
